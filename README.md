@@ -1,0 +1,2 @@
+# Brick-Breaker-Turing-Files
+These are old programs I created when I first got into computer programming. My first language I ever learned was Turing. I created two versions of Brick Breaker: one with layouts that changed from level-to-level, and the other that keeps adding more bricks per level (until there's no more space left on the screen, where it'll just increase the health of the bricks). The compiler file is included.
